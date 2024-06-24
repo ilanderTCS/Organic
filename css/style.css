@@ -1,0 +1,96 @@
+/* Navbar Styles */
+.navbar{
+    background-color: #029bd9;
+}
+.nav-link{
+    color: black;
+}
+/* Banner Styles */
+.carousel-inner img {
+    width: 100%;
+    height: 300px;
+  }
+.icons{
+    background-color: #0078d7;
+    position: relative;
+}
+.icons .i1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.icons1{
+    background-color: #1da0f2;
+    position: relative;
+}
+.icons1 .i2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.icons2{
+    background-color: #f26422;
+    position: relative;
+}
+.icons2 .i3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#store{
+    background-color: #ececec;
+}
+#store .btn{
+    background-color: #3e3e3e;
+}
+#store .title{
+    color: #c40f60;
+}
+#store .text{
+    color: #c50e20;
+}
+#service .title{
+    color: #399876;
+}
+#service .text{
+    color: #bdbcb7;
+}
+#cost{
+    background-color: #ececec;
+}
+#cost .title{
+    color: #3b9a78;
+}
+#cost .text{
+    color: #bdbcb7;
+}
+#cost .text1{
+    color: #c70311;
+}
+#cost .span{
+    background-color: #308cfb;
+}
+#footer{
+    background-color: #061220;
+}
+#footer .title{
+    color: #3b9a78;
+}
+#footer .text{
+    color: #bdbcb7;
+}
+#footer .text1{
+    color: #c60d1f;
+}
+#footer .footer-footer{
+    color: #bdbcb7; 
+    background-color: #000000;
+}
+#footer .input-group-text{
+    background-color: #c50e20;
+    padding: 11px;
+}
+
